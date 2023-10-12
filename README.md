@@ -1,7 +1,7 @@
 <h1 align="center">Ejercicios POO</h1>
 <h3 align="center">📦</h3>
 <p>
- <img src="https://img.shields.io/badge/STATUS-DESARROLLO-GREEN">
+ <img src="https://img.shields.io/badge/STATUS-DESARROLLO-yellow">
 </p>
 
 <hr>
@@ -16,11 +16,7 @@
     Override.
 </p>
 
-<br> 
-
-<p align="center">☕</p>
-
-<h2 align="center">Ejercicios</h2>
+<h2>Ejercicios</h2>
 
 <h3>Account</h3>
 <ul>
@@ -43,23 +39,17 @@
 
 <br>
 
-<p align="center">☕</p>
-
-<h2 align="center">Tecnologías</h2>
+<h2>Tecnologías</h2>
 <ul>
     <li>☕ Java 11</li>
 </ul>
 
 <br>
 
-<p align="center">☕</p>
-
-<h2 align="center">Desarrollador</h2>
+<h2>Desarrollador</h2>
 <sub>Hiram Shamed Ambriz Rubio</sub>
 <br>
 
 <img src="https://avatars.githubusercontent.com/u/121737918?s=400&u=b92f19f1bbc3e5ee7310fd2b25db2a86b4bd3c2b&v=4" width=120>
 
 <br>
-
-<p align="center">☕</p>
