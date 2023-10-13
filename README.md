@@ -20,20 +20,20 @@
 
 <h3>Account</h3>
 <ul>
-    <li><h4>💊 Encapsulación</h4></li>
     <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulación</h4></li>
 </ul>
 
 <h3>Counter</h3>
 <ul>
-    <li><h4>💊 Encapsulación</h4></li>
     <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulación</h4></li>
 </ul>
 
 <h3>Book</h3>
 <ul>
-    <li><h4>💊 Encapsulación</h4></li>
     <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulación</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
 
@@ -44,10 +44,18 @@
     <li><h4>⛔ Override</h4></li>
 </ul>
 
-<h3>Date</h3>
+<h3>Employee</h3>
 <ul>
-    <li><h4>💊 Encapsulación</h4></li>
     <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>🛑 Static</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
+<h3>NIF</h3>
+<ul>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulación</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
 
