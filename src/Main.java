@@ -216,5 +216,63 @@ public class Main {
         System.out.println(libro2);
 
         */
+
+        /*
+
+        // Fraction examples
+
+        // Se crean 4 fracciones
+        Fraction f1 = new Fraction(1, 4); // Fracción 1/4
+        Fraction f2 = new Fraction(1, 2); // Fracción 1/2
+        Fraction f3 = new Fraction(); // Fracción 0/1
+        Fraction f4 = new Fraction(4); // Fracción 4/1
+        // operaciones aritméticas con esas fracciones
+        Fraction suma = f1.add(f2);
+        Fraction resta = f1.sub(f3);
+        Fraction producto = f1.mul(f4);
+        Fraction cociente = f1.div(f2);
+        //mostrar resultados
+        System.out.println(f1 + " + " + f2 + " = " + suma);
+        System.out.println(f1 + " - " + f3 + " = " + resta);
+        System.out.println(f1 + " * " + f4 + " = " + producto);
+        System.out.println(f1 + " / " + f2 + " = " + cociente);
+
+         */
+
+        /*
+
+        // Date examples
+
+        int d, m, a;
+
+        //Se pide por teclado el dia, mes y año
+        System.out.println("Introduce Fecha...");
+        System.out.print("dia: ");
+        d = sc.nextInt();
+        System.out.print("mes: ");
+        m = sc.nextInt();
+        System.out.print("año: ");
+        a = sc.nextInt();
+
+        //Se crea un objeto Fecha utilizando el consructor con parámetros
+        Date fecha = new Date(d,m,a);
+
+        if (fecha.correctDate()) { //si la fecha es correcta
+
+            //Se muestra utilizando el método toString()
+            System.out.println("Fecha introducida: " + fecha);
+
+            //Se muestran los 10 días siguientes utilizando el método diaSiguiente()
+            System.out.println("Los 10 días siguientes son:");
+            for (int i = 1; i <= 10; i++) {
+                fecha.nextDay();
+                System.out.println(fecha);
+            }
+
+        } else { //Si la fecha no es correcta
+            System.out.println("Fecha no valida");
+        }
+
+         */
     }
 }

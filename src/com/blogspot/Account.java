@@ -1,3 +1,9 @@
+/*
+*   Crea una clase Cuenta con los métodos ingreso, reintegro y transferencia.
+*   La clase contendrá un constructor por defecto, un constructor con parámetros,
+*   un constructor copia y los métodos getters y setters.
+*/
+
 package com.blogspot;
 
 public class Account {
