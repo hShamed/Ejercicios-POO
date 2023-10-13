@@ -274,5 +274,20 @@ public class Main {
         }
 
          */
+
+        /*
+
+        // NIF examples
+
+        NIF nif1 = new NIF();
+        nif1.read();
+        System.out.println(nif1);
+
+        NIF nif2 = new NIF(12345678);
+        System.out.println(nif2);
+
+        */
+
+
     }
 }
