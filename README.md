@@ -37,6 +37,20 @@
     <li><h4>⛔ Override</h4></li>
 </ul>
 
+<h3>Fraction</h3>
+<ul>
+    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
+<h3>Date</h3>
+<ul>
+    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
 <br>
 
 <h2>Tecnologías</h2>
