@@ -1,4 +1,6 @@
 import com.blogspot.*;
+import com.company.*;
+import com.company.Employee;
 
 import java.util.Scanner;
 
@@ -288,6 +290,43 @@ public class Main {
 
         */
 
+        /*
 
+        // Password examples
+
+        //Se crea una contraseña de longitud 12
+        Password pass = new Password(12);
+        //se muestra por pantalla
+        System.out.println("Contraseña creada: " + pass.getPassword());
+        //Se muestra si es fuerte o no
+        System.out.println(pass.isStrong(pass.getPassword()) ? "Es fuerte" : "No es fuerte");
+        //Se introduce una nueva contraseña para modificar la anterior
+        //Se muestra el resultado de la modificación
+        if(pass.changePassword()){
+            System.out.println("Nueva contraseña: " + pass.getPassword());
+        }else{
+            System.out.println("La contraseña introducida no es fuerte");
+            System.out.println("la contraseña original no ha sido modificada: " + pass.getPassword());
+        }
+
+        */
+
+        /*
+
+        // Company examples
+
+        Employee E1 = new Employee("Rafa");
+        Executive D1 = new Executive("Mario");
+        Worker OP1 = new Worker("Alfonso");
+        Official OF1 = new Official("Luis");
+        Technician T1 = new Technician("Pablo");
+
+        System.out.println(E1);
+        System.out.println(D1);
+        System.out.println(OP1);
+        System.out.println(OF1);
+        System.out.println(T1);
+
+        */
     }
 }

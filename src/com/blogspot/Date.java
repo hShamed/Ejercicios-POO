@@ -65,6 +65,19 @@ public class Date {
         }
     }
 
+    public boolean greaterThan(Date date) {
+        if(this.year > date.year) {
+            return true;
+        }
+        else if(this.year == date.year && this.month > date.month) {
+            return true;
+        }
+        else if(this.year == date.year && this.month == date.month && this.day > date.day) {
+            return true;
+        }
+        return false;
+    }
+
     @Override
     public String toString() {
 
