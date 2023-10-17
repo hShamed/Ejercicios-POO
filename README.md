@@ -21,33 +21,33 @@
 <h3>Account</h3>
 <ul>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
 </ul>
 
 <h3>Counter</h3>
 <ul>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
 </ul>
 
 <h3>Book</h3>
 <ul>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
 
 <h3>Fraction</h3>
 <ul>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
 
 <h3>Employee</h3>
 <ul>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
     <li><h4>🛑 Static</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
@@ -55,29 +55,57 @@
 <h3>NIF</h3>
 <ul>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
 
 <h3>Password</h3>
 <ul>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
 </ul>
 
 <h3>Human</h3>
 <ul>
-    <li><h4>🤝 Asociación</h4></li>
+    <li><h4>🤝 Association</h4></li>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
 
 <h3>Employee, Executive, Worker, Official, Technician</h3>
 <ul>
     <li><h4>⚒️ Constructor</h4></li>
-    <li><h4>💊 Encapsulación</h4></li>
-    <li><h4>👪 Herencia</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>👪 Inheritance</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
+<h3>Multimedia</h3>
+<ul>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>🧮 Enum</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
+<h3>Movie</h3>
+<ul>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>🧮 Enum</h4></li>
+    <li><h4>⚠ Exception</h4></li>
+    <li><h4>👪 Inheritance</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
+<h3>MultimediaList</h3>
+<ul>
+    <li><h4>📚 Array</h4></li>
+    <li><h4>🤝 Association</h4></li>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>🧮 Enum</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
 
