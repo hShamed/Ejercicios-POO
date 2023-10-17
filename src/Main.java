@@ -1,6 +1,10 @@
 import com.blogspot.*;
 import com.company.*;
 import com.company.Employee;
+import com.herencia1.File;
+import com.herencia1.Movie;
+import com.herencia1.Multimedia;
+import com.herencia1.MultimediaList;
 
 import java.util.Scanner;
 
@@ -328,5 +332,49 @@ public class Main {
         System.out.println(T1);
 
         */
+
+        /*
+
+        // Multimedia examples
+
+        Multimedia mult = new Multimedia("Thriller", "Michael Jackson", File.MP3, 3.45);
+
+        System.out.println(mult);
+
+        Multimedia mult2 = new Multimedia("Thriller", "Michael Jackson", File.MOV, 3.59);
+
+        System.out.println(mult.equals(mult2));
+
+         */
+
+        /*
+
+        // Movie examples
+
+        Movie movie = new Movie("Shazam", "Director", File.DVD, 122, "Levi", "");
+
+        System.out.println(movie);
+
+         */
+
+        /*
+
+        // MultimediaList examples
+
+        MultimediaList multimediaList = new MultimediaList(5);
+
+        multimediaList.add(new Multimedia("A", "Ei", File.MP3, 2.30));
+
+        System.out.println(multimediaList.size());
+
+        multimediaList.add(new Multimedia("B", "Bi", File.AVI, 1.45));
+
+        System.out.println(multimediaList.get(1));
+
+        System.out.println(multimediaList.toString());
+
+        */
+
+
     }
 }
