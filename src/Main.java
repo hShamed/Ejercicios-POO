@@ -1,10 +1,4 @@
-import com.blogspot.*;
-import com.company.*;
-import com.company.Employee;
-import com.herencia1.File;
-import com.herencia1.Movie;
-import com.herencia1.Multimedia;
-import com.herencia1.MultimediaList;
+import com.herencia.MusicApp;
 
 import java.util.Scanner;
 
@@ -374,6 +368,30 @@ public class Main {
         System.out.println(multimediaList.toString());
 
         */
+
+        /*
+
+        // Disk examples
+
+        Disk disk = new Disk("Hey Jude", "The Beatles", File.WAV, 3.46, Genre.ROCK);
+
+        System.out.println(disk.toString());
+
+         */
+
+        /*
+
+        // MusicApp examples
+
+        MusicApp musicApp = new MusicApp();
+
+        System.out.println(musicApp.toString());
+
+        musicApp.addMusic("Minecraft", "C418");
+
+        System.out.println(musicApp.toString());
+
+         */
 
 
     }

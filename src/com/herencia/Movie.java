@@ -1,4 +1,4 @@
-package com.herencia1;
+package com.herencia;
 
 public class Movie extends Multimedia {
     private String actor;

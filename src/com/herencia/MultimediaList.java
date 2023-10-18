@@ -1,4 +1,4 @@
-package com.herencia1;
+package com.herencia;
 
 public class MultimediaList {
     private Multimedia[] list;
