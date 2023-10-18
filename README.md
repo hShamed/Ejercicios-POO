@@ -109,6 +109,23 @@
     <li><h4>⛔ Override</h4></li>
 </ul>
 
+<h3>Disk</h3>
+<ul>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>🧮 Enum</h4></li>
+    <li><h4>👪 Inheritance</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
+<h3>MusicApp</h3>
+<ul>
+    <li><h4>🤝 Association</h4></li>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
 <br>
 
 <h2>Tecnologías</h2>
