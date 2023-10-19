@@ -1,5 +1,5 @@
+import com.interfaz.Stack;
 import com.herencia.MusicApp;
-
 import java.util.Scanner;
 
 public class Main {
@@ -392,6 +392,25 @@ public class Main {
         System.out.println(musicApp.toString());
 
          */
+
+        /*
+
+        // Stack examples
+
+        Stack stack = new Stack(5);
+
+        System.out.println(stack.isEmpty());
+        System.out.println(stack.extract());
+        System.out.println(stack.first());
+        System.out.println(stack.add(new Object()));
+        System.out.println(stack.isEmpty());
+        System.out.println(stack.add(new Object()));
+        System.out.println(stack);
+        System.out.println(stack.extract());
+        System.out.println(stack);
+
+        */
+
 
 
     }
