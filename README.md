@@ -12,8 +12,9 @@
     una clase por cada problema planteado.
 </p>
 <p>
-    Cada clase toca ciertos temas de POO que son: Encapsulapción, Constructor,
-    Override.
+    Cada clase toca ciertos temas de POO que son: Abstracto, Anulación,
+    Arreglo, Asociación, Constructor, Encapsulapción, Enumeración,
+    Estático, Excepción, Herencia, Interfaz.
 </p>
 
 <h2>Ejercicios</h2>
@@ -123,6 +124,16 @@
     <li><h4>🤝 Association</h4></li>
     <li><h4>⚒️ Constructor</h4></li>
     <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
+<h3>Stack</h3>
+<ul>
+    <li><h4>🔳 Abstract</h4></li>
+    <li><h4>📚 Array</h4></li>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>📜 Interface</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
 
