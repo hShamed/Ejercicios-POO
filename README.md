@@ -1,7 +1,7 @@
 <h1 align="center">Ejercicios POO</h1>
 <h3 align="center">📦</h3>
 <p>
- <img src="https://img.shields.io/badge/STATUS-DESARROLLO-yellow">
+ <img src="https://img.shields.io/badge/STATUS-COMPLETADO-green">
 </p>
 
 <hr>
@@ -133,6 +133,15 @@
     <li><h4>📚 Array</h4></li>
     <li><h4>⚒️ Constructor</h4></li>
     <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>📜 Interface</h4></li>
+    <li><h4>⛔ Override</h4></li>
+</ul>
+
+<h3>Book & Magazine</h3>
+<ul>
+    <li><h4>⚒️ Constructor</h4></li>
+    <li><h4>💊 Encapsulation</h4></li>
+    <li><h4>👪 Inheritance</h4></li>
     <li><h4>📜 Interface</h4></li>
     <li><h4>⛔ Override</h4></li>
 </ul>
